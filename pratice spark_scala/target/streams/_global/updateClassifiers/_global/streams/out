@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/payalkabra/Downloads/scala%20pratice/pratice%20spark_scala/"), "pratice-spark_scala")...
+[debug] Done updating ProjectRef(uri("file:/home/payalkabra/Downloads/scala%20pratice/pratice%20spark_scala/"), "pratice-spark_scala")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
