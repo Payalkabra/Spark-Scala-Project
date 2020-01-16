@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f5a7088-c386-468b-8af4-4b4e78e14378" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WC4tnedwBLBSc2sc7e1xiv8CwH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="data_frame" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="praticespark_scala.src.main.scala.data_frame.data_frame" />
+      <module name="pratice spark_scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praticespark_scala.src.main.scala.data_frame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.data_frame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="pratice spark_scala" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="pratice-spark_scala [file:/home/payalkabra/Downloads/scala%20pratice/pratice%20spark_scala/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="pratice spark_scala-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3157281903977" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2132042165" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2912332145" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f5a7088-c386-468b-8af4-4b4e78e14378" name="Default Changelist" comment="" />
+      <created>1578640459057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578640459057</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnloadedModulesList">
+    <module name="pratice spark_scala" />
+    <module name="pratice spark_scala-build" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="59" width="800" height="677" key="#Project_Structure" timestamp="1578641044910">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="59" width="800" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1578641044910" />
+    <state x="401" y="202" width="620" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578648112628">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="401" y="202" width="620" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1578648112628" />
+    <state x="499" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579156464968">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579156464968" />
+    <state width="1233" height="91" key="GridCell.Tab.0.bottom" timestamp="1579085985896">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="91" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579085985896" />
+    <state width="1233" height="91" key="GridCell.Tab.0.center" timestamp="1579085985894">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="91" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579085985894" />
+    <state width="1233" height="91" key="GridCell.Tab.0.left" timestamp="1579085985893">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="91" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579085985893" />
+    <state width="1233" height="91" key="GridCell.Tab.0.right" timestamp="1579085985895">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="91" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579085985895" />
+    <state width="1233" height="464" key="GridCell.Tab.1.bottom" timestamp="1579085904665">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="464" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579085904665" />
+    <state width="1233" height="464" key="GridCell.Tab.1.center" timestamp="1579085904664">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="464" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1579085904664" />
+    <state width="1233" height="464" key="GridCell.Tab.1.left" timestamp="1579085904664">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="464" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1579085904664" />
+    <state width="1233" height="464" key="GridCell.Tab.1.right" timestamp="1579085904665">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1233" height="464" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1579085904665" />
+    <state x="205" y="33" key="SettingsEditor" timestamp="1578640524820">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="33" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1578640524820" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1578908957880">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1578908957880" />
+  </component>
+</project>
